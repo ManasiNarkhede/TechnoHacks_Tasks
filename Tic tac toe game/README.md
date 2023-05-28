@@ -1,4 +1,4 @@
-#Tic Tac Toe Game
+**#Tic Tac Toe Game**
 
 Tic Tac Toe is one of the most played games and is the best time killer game that you can play.
 

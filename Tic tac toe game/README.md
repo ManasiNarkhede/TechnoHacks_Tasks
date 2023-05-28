@@ -14,7 +14,7 @@ The restart button restarts the game.
 
 Here, Player 1 is X and Player 2 is O.
 
-<img width="294" alt="board" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/564556af-9d9d-44bc-ab84-7fbcb9f3fe83"> <br>
+<img width="294" alt="Board" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/002465cf-3b1f-481f-a443-a57d2256e1ee"> <br>
 
 <img width="585" alt="gameplay" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/45a4b5e5-0cf1-4844-8457-3e9b8246ec3e">
 

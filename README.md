@@ -7,7 +7,7 @@ A standard Python installation is required. There’s no need to create a virtua
 However, you need to make sure that you have the right Tkinter version installed. You should have Tkinter greater than or equal to 8.6. Otherwise, your game won’t work.
 
 You can check your current Tkinter version by starting a Python interactive session and running the following code:
-<img width="530" alt="image" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/e6f6f28c-5b72-4e6e-8b43-423a467ae8ce">
+<img width="532" alt="image" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/9ca40a53-3461-4128-9872-23fc4f1bec58">
 
 If this code doesn’t show a version greater than or equal to 8.6 for your Tkinter installation, then you’ll need to fix that.
 

@@ -8,7 +8,7 @@ User can decide the strength of password. Default strength is Medium.
 
 Generate button generates the password while Copy button copies the password .
 
-There are many advantages to using a random password generator. Among them are the following: 
+There are many advantages to using a random password generator. Among them are the following: <br>
     - Easy creation of strong passwords.
     - Allows the use of different passwords for each website. 
     - Accessible from any computer or other device

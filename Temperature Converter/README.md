@@ -14,4 +14,4 @@ After entering the temperature in either of the units(Farenheit,Celcius,Kelvin) 
 
 Exit button is used to exit the GUI.
 
-<img width="188" alt="image" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/761af70d-e64f-475b-a7e7-0aab856843fa">
+<img width="184" alt="Temperature Converter" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/8a566b14-c32a-4960-bac4-a4c63591122f">

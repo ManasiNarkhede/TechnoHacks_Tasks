@@ -13,7 +13,7 @@ If this code doesn’t show a version greater than or equal to 8.6 for your Tkin
 
 On Ubuntu Linux, you may need to install the python3-tk package using the system’s package manager, apt. That’s because typically Ubuntu doesn’t include Tkinter in its default Python installation.
 
-Once you have Tkinter properly installed, then you need to check its current version. If the Tkinter version is lower than 8.6, then you’ll have to install a more recent version of Python either by downloading it from the official download page or by using a tool like pyenv or Docker.
+Once you have Tkinter properly installed, then you need to check its current version. If the Tkinter version is lower than 8.6, then you’ll have to install a more recent version of Python.
 
 On macOS and Windows, a straightforward option is to install a Python version greater than or equal to 3.9.8 from the download page.
 

@@ -16,9 +16,6 @@ Here, Player 1 is X and Player 2 is O.
 
 <img width="294" alt="Board" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/002465cf-3b1f-481f-a443-a57d2256e1ee"> <br>
 
-<img width="585" alt="gameplay" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/45a4b5e5-0cf1-4844-8457-3e9b8246ec3e">
+<img width="585" alt="Gameplay" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/6744ac3b-1ded-4005-9bc0-986e76538b63">
 
-<img width="586" alt="winning arrangements" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/727f9106-8f42-451d-bc86-7c16a89ff987">
-
-
-
+<img width="586" alt="Winning arrangements" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/e6bb7ccd-c7bb-424f-8d09-3dcc03bcc967">

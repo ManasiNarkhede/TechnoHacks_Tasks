@@ -17,5 +17,6 @@ There are many advantages to using a random password generator. Among them are t
     - No need to remember passwords. <br>
     - Protects accounts in case of hardware failure, natural disasters, or service shutdown. <br>
     
-<img width="320" alt="image" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/b3148af7-a5f3-4387-988d-2de549a1b973">
+    
+<img width="317" alt="PasswordGen" src="https://github.com/ManasiNarkhede/TechnoHacks_Tasks/assets/132153639/0b1c78a8-46fe-4e7f-a10c-ea89e693070c">
 

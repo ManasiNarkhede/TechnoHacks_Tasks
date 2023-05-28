@@ -8,7 +8,7 @@ While Kelvin (K) is the SI unit of temperature, people generally use Centigrade 
 
 The temperature converter formula is used for conversion of between temperatures.
 
-As a result, having an effective and easy-to-use temperature converter calculator is necessary for both professionals and students.
+Having an effective and easy-to-use temperature converter calculator is necessary for both professionals and students.
 
 After entering the temperature in either of the units(Farenheit,Celcius,Kelvin) click on "Go" button for conversion of temperature from one unit to other.
 

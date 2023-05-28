@@ -1,4 +1,4 @@
-<h1>TechnoHacks_Tasks<h1>
+<h1>TechnoHacks_Tasks</h1>
 Each folder consists of respective code along with read me file.
  
 <h1>Prerequisites</h1>
